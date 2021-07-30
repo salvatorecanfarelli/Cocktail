@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navcategorie"
+    app:startDestination="@id/categorie2">
+
+    <fragment
+        android:id="@+id/categorie2"
+        android:name="com.codgo.debby_cocktail.fragments.Categorie"
+        android:label="fragment_categorie"
+        tools:layout="@layout/fragment_categorie" >
+        <action
+            android:id="@+id/action_categorie2_to_listaCocktailCategory"
+            app:destination="@id/listaCocktailCategory" />
+    </fragment>
+    <fragment
+        android:id="@+id/listaCocktailCategory"
+        android:name="com.codgo.debby_cocktail.fragments.ListaCocktailCategory"
+        android:label="fragment_lista_cocktail_category"
+        tools:layout="@layout/fragment_lista_cocktail_category" />
+    <fragment
+        android:id="@+id/detailCocktail4"
+        android:name="com.codgo.debby_cocktail.fragments.DetailCocktail"
+        android:label="fragment_detail_cocktail"
+        tools:layout="@layout/fragment_detail_cocktail" /><action android:id="@+id/action_global_detailCocktail4" app:destination="@id/detailCocktail4"/>
+</navigation>

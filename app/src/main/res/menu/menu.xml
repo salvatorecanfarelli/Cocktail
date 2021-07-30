@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/lista"
+        android:title="Lista Cocktail"
+        android:icon="@drawable/drink"/>
+    <item
+        android:id="@+id/random"
+        android:title="Drink Random"
+        android:icon="@drawable/random"/>
+    <item
+        android:id="@+id/categorie"
+        android:title="Categorie"
+        android:icon="@drawable/categorie"/>
+
+</menu>

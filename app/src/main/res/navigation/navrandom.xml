@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navrandom"
+    app:startDestination="@id/drinkRandom">
+
+    <fragment
+        android:id="@+id/drinkRandom"
+        android:name="com.codgo.debby_cocktail.fragments.DrinkRandom"
+        android:label="fragment_drink_random"
+        tools:layout="@layout/fragment_drink_random" />
+</navigation>

@@ -1,0 +1,154 @@
+<resources>
+    <string name="app_name">Debby_Cocktail</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Click_here_for_Registration"> <u>Click here for Registration</u></string>
+    <string name="Categoria"> <u>Categoria</u></string>
+    <string-array name="categorie">
+        <item>Ordinary Drink</item>
+        <item>Cocktail</item>
+        <item>Milk / Float / Shake</item>
+        <item>Cocoa</item>
+        <item>Shot</item>
+        <item>Coffee / Tea</item>
+        <item>Homemade Liqueur</item>
+        <item>Punch / Party Drink</item>
+        <item>Beer</item>
+        <item>Soft Drink / Soda</item>
+        <item>Other/Unknown</item>
+    </string-array>
+    <string name="Bicchiere"> <u>Bicchiere</u></string>
+    <string-array name="glass">
+        <item>Cocktail glass</item>
+        <item>Old-fashioned glass</item>
+        <item>Whiskey Glass</item>
+        <item>Champagne flute</item>
+        <item>Brandy snifter</item>
+        <item>White wine glass</item>
+        <item>Hurricane glass</item>
+        <item>Coffee mug</item>
+        <item>Shot glass</item>
+        <item>Irish coffee cup</item>
+        <item>Punch bowl</item>
+        <item>Wine Glass</item>
+        <item>Beer mug</item>
+        <item>Margarita/Coupette glass</item>
+        <item>Beer pilsner</item>
+        <item>Beer Glass</item>
+        <item>Margarita glass</item>
+        <item>Martini Glass</item>
+        <item>Balloon Glass</item>
+        <item>Coupe Glass</item>
+    </string-array>
+    <string name="Tipo_di_alcolico"> <u>Tipo di alcolico</u></string>
+    <string-array name="tipo_di_alcolico">
+        <item>Light rum</item>
+        <item>Dark rum</item>
+        <item>Rum</item>
+        <item>Añejo rum</item>
+        <item>Spiced rum</item>
+        <item>Whiskey</item>
+        <item>Applejack</item>
+        <item>Blended whiskey</item>
+        <item>Irish whiskey</item>
+        <item>Johnnie Walker</item>
+        <item>Scotch</item>
+        <item>Bourbon</item>
+        <item>Cognac</item>
+        <item>Brandy</item>
+        <item>Apple brandy</item>
+        <item>Cherry brandy</item>
+        <item>Apricot brandy</item>
+        <item>Blackberry brandy</item>
+        <item>Coffee brandy</item>
+        <item>Gin</item>
+        <item>Sloe gin</item>
+        <item>Sweet Vermouth</item>
+        <item>Dry Vermouth</item>
+        <item>Strawberry schnapps</item>
+        <item>Peppermint schnapps</item>
+        <item>Triple sec</item>
+        <item>Southern Comfort</item>
+        <item>Lemon vodka</item>
+        <item>Peach Vodka</item>
+        <item>Absolut Citron</item>
+        <item>Vodka</item>
+        <item>Amaretto</item>
+        <item>Champagne</item>
+        <item>Coffee liqueur</item>
+        <item>Tequila</item>
+        <item>Kahlua</item>
+        <item>Dubonnet Rouge</item>
+        <item>Port</item>
+        <item>Red wine</item>
+        <item>Ricard</item>
+        <item>Sherry</item>
+        <item>Ginger</item>
+        <item>Galliano</item>
+        <item>Ouzo</item>
+        <item>Everclear</item>
+        <item>Lager</item>
+        <item>Ale</item>
+        <item>Pisco</item>
+        <item>Irish cream</item>
+        <item>Chocolate liqueur</item>
+        <item>Midori melon liqueur</item>
+        <item>Sambuca</item>
+    </string-array>
+    <string name="Ingrediente"> <u>Ingrediente</u></string>
+    <string-array name="ingrediente">
+        <item>Orange bitters</item>
+        <item>Bitters</item>
+        <item>Sprite</item>
+        <item>7-Up</item>
+        <item>Tea</item>
+        <item>Water</item>
+        <item>Firewater</item>
+        <item>Carbonated water</item>
+        <item>Sugar</item>
+        <item>demerara Sugar</item>
+        <item>Sugar syrup</item>
+        <item>Chocolate syrup</item>
+        <item>Creme de Cacao</item>
+        <item>Cocoa powder</item>
+        <item>Chocolate</item>
+        <item>Watermelon</item>
+        <item>Strawberries</item>
+        <item>Mango</item>
+        <item>Lime</item>
+        <item>Lemon</item>
+        <item>Cider</item>
+        <item>Cantaloupe</item>
+        <item>Berries</item>
+        <item>Grapes</item>
+        <item>Kiwi</item>
+        <item>Orange</item>
+        <item>Cranberries</item>
+        <item>Angelica root</item>
+        <item>Grenadine</item>
+        <item>Lime juice</item>
+        <item>Lemon juice</item>
+        <item>Grapefruit juice</item>
+        <item>Apple juice</item>
+        <item>Pineapple juice</item>
+        <item>Cranberry juice</item>
+        <item>Grape juice</item>
+        <item>Tomato juice</item>
+        <item>Lemonade</item>
+        <item>Peach nectar</item>
+        <item>Apple cider</item>
+        <item>Egg yolk</item>
+        <item>Egg</item>
+        <item>Milk</item>
+        <item>Heavy cream</item>
+        <item>Yoghurt</item>
+        <item>Creme de Cassis</item>
+        <item>Coffee</item>
+        <item>Espresso</item>
+    </string-array>
+    <string name="Tipo"> <u>Alcolico o Analcolico</u></string>
+    <string-array name="tipo">
+        <item>Alcoholic</item>
+        <item>Non alcoholic</item>
+    </string-array>
+</resources>

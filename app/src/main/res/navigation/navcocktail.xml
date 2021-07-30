@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navcocktail"
+    app:startDestination="@id/allCocktail">
+
+    <fragment
+        android:id="@+id/allCocktail"
+        android:name="com.codgo.debby_cocktail.fragments.AllCocktail"
+        android:label="fragment_all_cocktail"
+        tools:layout="@layout/fragment_all_cocktail" >
+        <action
+            android:id="@+id/action_allCocktail_to_detailCocktail"
+            app:destination="@id/detailCocktail" />
+    </fragment>
+    <fragment
+        android:id="@+id/detailCocktail"
+        android:name="com.codgo.debby_cocktail.fragments.DetailCocktail"
+        android:label="fragment_detail_cocktail"
+        tools:layout="@layout/fragment_detail_cocktail" />
+    <action android:id="@+id/action_global_detailCocktail" app:destination="@id/detailCocktail"/>
+</navigation>
